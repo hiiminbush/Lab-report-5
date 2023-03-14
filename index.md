@@ -1,5 +1,5 @@
 ## `find` Commmand Line Options
-source link: [Link](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/) [Link](https://www.redhat.com/sysadmin/linux-find-command)
+source links: [Link](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/) [Link](https://www.redhat.com/sysadmin/linux-find-command)
 * `-empty`: this option is to search for all empty files or directories in the entered directory. For example the following input will search for empty files or directories. (the current directory is ~/Desktop/cse15L)
 * input: `$ find -empty`
 * output: the command should return the empty folder I created in this current directory, `./Empty_Directory`
