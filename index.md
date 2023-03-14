@@ -9,7 +9,7 @@ source links: [Link](https://www.geeksforgeeks.org/find-command-in-linux-with-ex
 ./Empty Directory
 ./Empty_File.txt
 ```
-* `-name`: this option with a specific name (the current directory is ~/Desktop/cse15L).
+* `-name`: this option finds things with a specific name (the current directory is ~/Desktop/cse15L).
 * input: `$ find -name cse15l-lab-reports.pdf`
 * output: `./cse15l-lab-reports.pdf`
 * input: `$ find -name *.txt` this will find all txt files in the current directory
